@@ -1,0 +1,23 @@
+{
+  "name": "caesar-cipher-cli-tool",
+  "version": "1.0.0",
+  "description": "Консольная утилита для шифровки/расшифровки текста по принципу \"шифра Цезаря\".",
+  "main": "my_caesar_cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvikota/Caesar-cipher-CLI-tool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vvikota/Caesar-cipher-CLI-tool/issues"
+  },
+  "homepage": "https://github.com/vvikota/Caesar-cipher-CLI-tool#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "commander": "^7.2.0"
+  }
+}
